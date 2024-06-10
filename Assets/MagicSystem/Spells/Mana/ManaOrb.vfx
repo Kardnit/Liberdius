@@ -177,7 +177,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 10000
+      m_SerializableObject: 25000
     m_Space: 2147483647
   m_Property:
     name: Rate
@@ -583,7 +583,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614651}
   - {fileID: 8926484042661614674}
   dataType: 0
-  capacity: 10000
+  capacity: 25000
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
@@ -2614,7 +2614,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":8.36882495880127,"g":0.0,"b":50.24031066894531,"a":1.0},"time":0.20000000298023225},{"color":{"r":0.0,"g":4.888097286224365,"b":50.24031066894531,"a":1.0},"time":0.800000011920929}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}],"gradientMode":0}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.0,"g":0.5047143697738648,"b":50.24030685424805,"a":1.0},"time":0.2500038146972656},{"color":{"r":0.24402034282684327,"g":0.0,"b":50.24030685424805,"a":1.0},"time":0.7499961853027344}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}],"gradientMode":0}'
     m_Space: 2147483647
   m_Property:
     name: Color
