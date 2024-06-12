@@ -2913,7 +2913,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BACK TO LEVEL SELECTION
+  m_Text: MAIN MENU
 --- !u!222 &429416080
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4272,7 +4272,7 @@ GameObject:
   - component: {fileID: 673083356}
   - component: {fileID: 673083357}
   m_Layer: 5
-  m_Name: BackToLevelSelectionButton
+  m_Name: MainMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
